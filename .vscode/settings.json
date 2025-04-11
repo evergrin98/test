@@ -1,0 +1,11 @@
+"terminal.integrated.profiles.windows": {
+    {
+        "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/gcc.exe",
+    },
+    "MSYS2 UCRT64": {
+        "path": "C:/system/msys64/usr/bin/bash.exe",
+        "args": ["--login"]
+    },
+},
+"terminal.integrated.defaultProfile.windows": "MSYS2 UCRT64"
+"python.terminal.activateEnvironment": false
